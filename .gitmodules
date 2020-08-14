@@ -1,3 +1,6 @@
 [submodule "pickanumba"]
 	path = pickanumba
 	url = https://github.com/mikedett91/pickanumba
+[submodule "thehardway"]
+	path = thehardway
+	url = https://github.com/mikedett91/thehardway.git
